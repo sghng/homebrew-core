@@ -5,8 +5,8 @@ class Snapcraft < Formula
   homepage "https://snapcraft.io/"
   # Use git checkout so setuptools-scm and update-python-resources works
   url "https://github.com/canonical/snapcraft.git",
-      tag:      "9.1.4",
-      revision: "fdae874725af842d0e67ba6b0a8c1835ba978a5d"
+      tag:      "9.2.0",
+      revision: "d3ef94ad7a5cb59ba863cc1ad28959c72bb7a264"
   license "GPL-3.0-only"
   head "https://github.com/canonical/snapcraft.git", branch: "main"
 
